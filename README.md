@@ -9,4 +9,5 @@
 - ``git branch nombre_rama:`` crear rama.
 - ``git checkout nombre_rama:`` pasarme a una rama.
 - ``git checkout -b nombre_rama:`` crear y pasarme a esa rama.
-- All for now.
+
+- ``git push:`` para enviar lo guardado al repositorio. Si es primera vez que se realiza el push es git push -u origin nombre_rama
